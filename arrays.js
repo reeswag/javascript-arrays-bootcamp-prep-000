@@ -49,6 +49,9 @@ function destructivelyRemoveElementFromEndOfArray(array) {
 }
 
 //Problem 8 
+<<<<<<< HEAD
 function removeElementFromEndOfArray(array) {
   return array.slice(0,array.length -1)
 }
+=======
+>>>>>>> f573e1a1b1867f371eab3136310df000ea5ab271
